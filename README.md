@@ -2,6 +2,8 @@
 
 # Facial analysis via deep learning
 
+![](ModelTraining/final_gifs/0011000001001011.gif)
+
 Our project focused on developing a deep learning model for detailed facial analysis and description. 
 We aimed to create a system that could provide accurate descriptions of facial attributes, which could 
 be useful in areas such as law enforcement, social media, and security, and recreate an image of a person 
